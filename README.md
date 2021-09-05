@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blomqen
 - 👀 I’m interested in Front-end development and UI/UX Design
-- 🌱 I’m currently learning UI/UX
+- 🌱 I’m currently trying to learn C# and get into game developing
 - 💞️ I’m looking to collaborate on Website??
 - 📫 How to reach me WWW.BLOMQEN.SE or contact@blomqen.se
 
